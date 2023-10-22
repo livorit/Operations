@@ -1,0 +1,16 @@
+Subject,Start Date,Start Time,End Date,End Time,Description,Location,All Day Event,Private
+"Daily",10/24/2023,9:00 AM,10/24/2023,9:30 AM,"Meeting Goal: Daily Check-in. Topics: Risks, Impediments & Blocker; General Updates; Planning Individual Alignments",Company,FALSE,TRUE
+"Finances",10/24/2023,10:00 AM,10/24/2023,11:00 AM,"Meeting Goal: Get an overview of finances. Topics: Go through Agicap; Go through finance excel; Derive decisions",Company,FALSE,TRUE
+"Sprint Planning Livorit",10/24/2023,2:00 PM,10/24/2023,2:30 PM,"Meeting Goal: Go through planned stories. Topics: Refine and estimate stories",BauPi,FALSE,TRUE
+"Sprint Planning BauPi",10/24/2023,2:45 PM,10/24/2023,3:30 PM,"Meeting Goal: Go through planned stories. Topics: Refine and estimate stories",BauPi,FALSE,TRUE
+"Sprint Refinement",10/24/2023,3:45 PM,10/24/2023,4:45 PM,"Meeting Goal: Adapt Backlog & prepare upcoming sprint. Topics: Use the Prio Matrix",Company,FALSE,TRUE
+"Operations",10/25/2023,10:00 AM,10/25/2023,11:00 AM,"Meeting Goal: Reflect on and improve the operations. Topics: Go through operations agenda collected info",Company,FALSE,TRUE
+"Marketing & Sales",10/25/2023,2:00 PM,10/25/2023,2:45 PM,"Meeting Goal: Align on marketing & sales activities. Topics: Go through the agenda of the meeting in teams",BauPi,FALSE,TRUE
+"Strat",10/26/2023,1:00 PM,10/26/2023,4:00 PM,"Meeting Goal: Align on and adapt the strat for BauPi. Topics: Go through the agenda; Define prio topics; Adapt milestones and epics",BauPi,FALSE,TRUE
+"Admin",10/27/2023,10:00 AM,10/27/2023,10:30 AM,"Meeting Goal: Aligned to Weekly Goals. Topics: Tidy-up the team's admin task board; Create and adapt to-dos",Company,FALSE,TRUE
+"Product",10/27/2023,11:00 AM,10/27/2023,12:00 PM,"Meeting Goal: Aligned to the week. Topics: Go through the BauPi Product FigJam",BauPi,FALSE,TRUE
+"Retrospective",10/27/2023,2:00 PM,10/27/2023,3:00 PM,"Meeting Goal: Observe the last 6 weeks. Topics: Go through the retro FigJam",Company,FALSE,TRUE
+"Clients",10/28/2023,10:00 AM,10/28/2023,10:45 AM,"Meeting Goal: Align on and adapt the client work for BauPi. Topics: Go through the agenda; Define prio topics; Adapt stories",BauPi,FALSE,TRUE
+"Product & Marketing",10/28/2023,11:00 AM,10/28/2023,11:45 AM,"Meeting Goal: Develop the Livorit Product & Marketing Realm. Topics: Go through the Livorit Product & Marketing FigJam",Livorit,FALSE,TRUE
+"Sprint Review",10/28/2023,2:00 PM,10/28/2023,3:30 PM,"Meeting Goal: Present results & retrospective. Topics: Results overview to be shared post-meeting",Company,FALSE,TRUE
+"Quarterly Planning",10/26/2023,1:00 PM,10/26/2023,3:00 PM,"Meeting Goal: Adapt & add milestones. Topics: Adapt, add, refine and formulate Epics and connect to milestones",Company,FALSE,TRUE
