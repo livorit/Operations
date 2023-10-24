@@ -8,7 +8,9 @@
 | **Maurice** | Daily, Marketing & Sales, Sprint Review, Retrospective | 4h 15min | 2h |
 | **Jasenko** | Daily, Sprint Review, Retrospective | 3h 30min | 1h 30min |
 
---> Lean Version adaptions:
+__________________
+*--> Lean Version adaptions:*
+
 - Daily from 30 to 15 Minutes
 - Marketing & Sales from 45 to 30 Minutes
 - Sprint Planning BauPi from 60 to 45 minutes
