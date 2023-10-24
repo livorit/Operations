@@ -13,6 +13,12 @@
 | Company | Sprint Review | Friday | 1.5 hours | 2:00 - 3:30 pm | Bi-weekly | Everyone (60 mins), Ermin, Fabo, Richy, Oli (30 mins) | Present results & retrospective, then close sprint & look at analytics | Results overview to be shared post-meeting |
 | Company | Quarterly Planning | Last Wednesday of every 3rd month | 1 day | whole day | Quarterly | Oli, Ermin, Richy, Fabo | Adapt & add milestones | ONSIDE Adapt, add, refine and formulate Epics and connect to milestones; Create and adapt story headlines along epics |
 
+__________________
+*--> Lean Version adaptions:*
+
+- Daily from 30 to 15 Minutes
+- Marketing & Sales from 45 to 30 Minutes
+- Sprint Planning BauPi from 60 to 45 minutes
 
 | **Individual** | **Meetings Attended** | **Average Weekly Meeting Hours (Standard)** | **Average Weekly Meeting Hours (Lean)** |
 |:--------------:|:----------------------:|:------------------------------------------:|:---------------------------------------:|
@@ -23,10 +29,3 @@
 | **Eric** | Daily, Marketing & Sales, Sprint Review, Retrospective | 4h 15min | 2h |
 | **Maurice** | Daily, Marketing & Sales, Sprint Review, Retrospective | 4h 15min | 2h |
 | **Jasenko** | Daily, Sprint Review, Retrospective | 3h 30min | 1h 30min |
-
-__________________
-*--> Lean Version adaptions:*
-
-- Daily from 30 to 15 Minutes
-- Marketing & Sales from 45 to 30 Minutes
-- Sprint Planning BauPi from 60 to 45 minutes
